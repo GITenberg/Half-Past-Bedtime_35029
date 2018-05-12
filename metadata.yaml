@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37411
 description: Stories and poems of children experiencing the "in-between land" of life,
   death, and memories.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35029#Half-Past-Bedtime
 gutenberg_issued: '2011-01-21'
 gutenberg_type: Text
 identifiers:
